@@ -34,17 +34,18 @@
 
 ### 🌸 关于我
 
-```java
-public class Allenwdk {
-    String role = "Developer / Learner / 代码的修行者";
-    String[] interests = {"Coding", "Genshin Impact", "Ayaka Main"};
-    String motto = "霜降の日、白鷺の姫君";
-    
-    public void greet() {
-        System.out.println("欢迎来到我的GitHub主页！");
-    }
-}
-```
+- 🧑‍💻 **身份**：Developer / Learner / 代码的修行者
+- 🎮 **属性**：神里绫华单推人，原神资深玩家
+- 🔧 **爱好**：刷机、开发小工具
+- 📜 **座右铭**：霜降の日、白鷺の姫君
+
+### 📱 我的设备
+
+| 类型 | 设备 |
+|------|------|
+| 📱 手机 | Xiaomi 17 Pro、Xiaomi 13 Pro |
+| 📟 平板 | Xiaomi Pad 7 |
+| 💻 电脑 | MECHREVO JIAOLONG 16 Pro 2026 |
 
 </div>
 
@@ -56,7 +57,7 @@ public class Allenwdk {
 ### ⚡ 技能栈
 
 <!-- 动态技能图标 -->
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,vue,nodejs,spring,docker,git,linux,vscode,mysql,redis&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,ts,python&theme=dark&perline=7" />
 
 <br><br>
 
